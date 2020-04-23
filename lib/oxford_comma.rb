@@ -10,5 +10,5 @@
 
 
 def oxford_comma(array)
-  array.to_s
+  array.join.to_s
 end
